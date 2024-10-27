@@ -9,9 +9,10 @@ This process includes performing exploratory data analysis (EDA) to identify key
 ## Data Understanding
 To become familiar with data and identify any quality issues, consider below steps:
 
-Review Dataset Documentation
-Load Initil Data
-Assess Missing Data
-Explore Categorical and Numerical Features
-Check for Duplicates
+- Review Dataset Documentation
+- Load Initil Data
+- Assess Missing Data
+- Explore Categorical and Numerical Features
+- Check for Duplicates
 
+## Findings
