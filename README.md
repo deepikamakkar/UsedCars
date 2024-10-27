@@ -16,3 +16,7 @@ To become familiar with data and identify any quality issues, consider below ste
 - Check for Duplicates
 
 ## Findings
+- The prices does show an upward trend after the year of 2000, although declined after the  year 2020
+- Good condition of care depicts the higher mean prices
+- Higher Cylinder has higher prices
+- Linear Regression model is the best model 
